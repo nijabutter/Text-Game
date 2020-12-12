@@ -1,0 +1,23 @@
+{
+    "common": [
+        {
+            "name": "Silver Cup",
+            "type": "Trinket",
+            "value": "25"
+        },
+        {
+            "name": "Stick",
+            "type": "Weapon",
+            "ranged": false,
+            "damage": 3
+        }
+    ],
+    "rare": [
+        {
+            "name": "Big Dagger",
+            "type": "Weapon",
+            "ranged": false,
+            "damage": 15
+        }
+    ]
+}
