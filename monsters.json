@@ -1,144 +1,130 @@
 {
-    "easy":
-    [
-        {
-            "name": "Tar Monster",
-            "health": 50,
-            "maxHealth": 50,
-            "armour": 0,
-            "damage": 5,
-            "droppedGold": 15,
-            "drops": {
-                "common": [
-                    {
-                        "name": "Ball of Tar",
-                        "type": "Trinket",
-                        "value": 2
-                    }
-                ],
-                "rare": [
-                ]
-    
-            },
-            "attacks": [
-                "throws balls of tar",
-                "sprays crude oil",
-                "spews tar",
-                "smacks"
-            ]
-        },
-        {
-            "name": "Mirror Monster",
-            "health": 50,
-            "maxHealth": 50,
-            "armour": 0,
-            "damage": 5,
-            "droppedGold": 15,
-            "drops": {
-                "common": [
-                    {
-                        "name": "Sharp Tooth",
-                        "type": "Weapon",
-                        "damage": 15
-                    }
-                ],
-                "rare": [
-                    {
-                        "name": "Swirly glasses",
-                        "type": "Trinket",
-                        "value": 25
-                    }
-                ]
-    
-            },
-            "attacks": [
-                "screams",
-                "punches",
-                "trips you",
-                "cackles"
-            ]
-        }
-    ],
-    "medium":
-    [
-        {
-            "name": "Boo Brothers",
-            "health": 75,
-            "maxHealth": 75,
-            "armour": 10,
-            "damage": 12,
-            "droppedGold": 50,
-            "drops": {
-                "common": [
-                    {
-                        "name": "Yellow Hat",
-                        "type": "Trinket",
-                        "value": 5
-                    },
-                    {
-                        "name": "Pink Hat",
-                        "type": "Trinket",
-                        "value": 5
-                    },
-                    {
-                        "name": "Green Hat",
-                        "type": "Trinket",
-                        "value": 5
-                    }
-                ],
-                "rare": [
-                    {
-                        "name": "Sawed off",
-                        "type": "Weapon",
-                        "damage": 35
-                    }
-                ]
-    
-            },
-            "attacks": [
-                "throws balls of tar",
-                "sprays crude oil",
-                "spews tar",
-                "smacks"
-            ]
-        },
-        {
-            "name": "Wiki-Tiki",
-            "health": 75,
-            "maxHealth": 75,
-            "armour": 10,
-            "damage": 12,
-            "droppedGold": 50,
-            "drops": {
-                "common": [
-                    {
-                        "name": "Big Wig",
-                        "type": "Trinket",
-                        "value": 5
-                    },
-                    {
-                        "name": "Long Nail",
-                        "type": "Weapon",
-                        "damage": 10
-                    }
-                ],
-                "rare": [
-                    {
-                        "name": "Sword",
-                        "type": "Weapon",
-                        "damage": 15
-                    }
-                ]
-    
-            },
-            "attacks": [
-                "breaths fire",
-                "throws flowers",
-                "roards",
-                "slams the ground"
-            ]
-        }
-    ]
+  "easy": [
+    {
+      "name": "Tar Monster",
+      "health": 50,
+      "maxHealth": 50,
+      "armour": 0,
+      "damage": 5,
+      "droppedGold": 15,
+      "drops": {
+        "common": [
+          {
+            "name": "Ball of Tar",
+            "type": "Trinket",
+            "value": 2
+          }
+        ],
+        "rare": []
+      },
+      "attacks": [
+        "throws balls of tar",
+        "sprays crude oil",
+        "spews tar",
+        "smacks"
+      ]
+    },
+    {
+      "name": "Mirror Monster",
+      "health": 50,
+      "maxHealth": 50,
+      "armour": 0,
+      "damage": 5,
+      "droppedGold": 15,
+      "drops": {
+        "common": [
+          {
+            "name": "Sharp Tooth",
+            "type": "Weapon",
+            "damage": 15
+          }
+        ],
+        "rare": [
+          {
+            "name": "Swirly glasses",
+            "type": "Trinket",
+            "value": 25
+          }
+        ]
+      },
+      "attacks": ["screams", "punches", "trips you", "cackles"]
+    }
+  ],
+  "medium": [
+    {
+      "name": "Boo Brothers",
+      "health": 75,
+      "maxHealth": 75,
+      "armour": 10,
+      "damage": 12,
+      "droppedGold": 50,
+      "drops": {
+        "common": [
+          {
+            "name": "Yellow Hat",
+            "type": "Trinket",
+            "value": 5
+          },
+          {
+            "name": "Pink Hat",
+            "type": "Trinket",
+            "value": 5
+          },
+          {
+            "name": "Green Hat",
+            "type": "Trinket",
+            "value": 5
+          }
+        ],
+        "rare": [
+          {
+            "name": "Sawed off",
+            "type": "Weapon",
+            "damage": 35
+          }
+        ]
+      },
+      "attacks": [
+        "throw balls of tar",
+        "spray crude oil",
+        "spew tar",
+        "smack you"
+      ]
+    },
+    {
+      "name": "Wiki-Tiki",
+      "health": 75,
+      "maxHealth": 75,
+      "armour": 10,
+      "damage": 12,
+      "droppedGold": 50,
+      "drops": {
+        "common": [
+          {
+            "name": "Seashells",
+            "type": "Trinket",
+            "value": 5
+          },
+          {
+            "name": "Long Nail",
+            "type": "Weapon",
+            "damage": 10
+          }
+        ],
+        "rare": [
+          {
+            "name": "Sword",
+            "type": "Weapon",
+            "damage": 15
+          }
+        ]
+      },
+      "attacks": [
+        "breaths fire",
+        "throws flowers",
+        "roards",
+        "slams the ground"
+      ]
+    }
+  ]
 }
-
-
